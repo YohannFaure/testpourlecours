@@ -1,3 +1,7 @@
+# j'ajoute du code ici
+while True:
+    print("true")
+
 
 import numpy as np
 from matplotlib import pyplot as plt
